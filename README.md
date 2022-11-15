@@ -6,12 +6,6 @@ The application is an error logging and monitoring tool similar to Sentry or Rol
 
 ![The running application](docs/app.png)
 
-## Codebase Tour
-
-Watch this video for a tour through the codebase.
-
-[![Codebase tour](docs/codebase-tour.jpg)](https://www.youtube.com/watch?v=a_Z0yUsChlY)
-
 ## Getting Started
 
 This project is built with Next.js, TypeScript, Cypress & styled-components among others. To start working on the project, first clone the repository and install the dependencies.
